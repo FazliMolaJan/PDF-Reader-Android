@@ -1,9 +1,8 @@
 # PDF-Reader-Android
-An App that contains all the PDF currently existing in local storage and show it to user for Display.
+An App that shows all the PDF currently existing in local storage and show it to user for Display.
 
 Pre-requisites
 --------------
-
 - Android SDK v28
 - Min. Android SDK v16
 
